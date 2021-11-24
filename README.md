@@ -1,4 +1,4 @@
-### Hi this is OB(BRIANHAN)👋
+### Hi, this is OB(BRIANHAN)👋
 
 <hr/>
 
