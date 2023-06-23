@@ -1,11 +1,11 @@
 ## Hi, this is OB(BRIANHAN)👋
 
 
- 📖 I’m currently studying Software-Engineering in SJTU.<br/>
- 💻 Practicing programming for applications(Java, Python, JavaScript) and digital media technology.<br/>
+ 📖 I earned my bachelor degree in Software Engineering at SJTU in 2023.<br/>
+ 💻 Practicing programming for applications(Java, C++, JavaScript) and software systems.<br/>
  ✈️ I plan to pursue a master's degree in Computer-Science-and-Engineering related field in the future.<br/>
  😄 I'm interested in ACG, idol projects and coding for fun.<br/>
- 📫 How to reach me: Personal Email: hanyiduo31@126.com; Academic Email: brianhan@sjtu.edu.cn
+ 📫 How to reach me: Personal Email: overthebrain@outlook.com
 <hr>
 
 ### Github Stats
