@@ -3,7 +3,7 @@
 
  📖 I earned my bachelor degree in Software Engineering at SJTU in 2023.<br/>
  💻 Practicing programming for applications(Java, C++, JavaScript) and software systems.<br/>
- ✈️ I plan to pursue a master's degree in Computer-Science-and-Engineering related field in the future.<br/>
+ ✈️ Going to pursue a master's degree in ECE at UW, seeking SDE internship opportunities.<br/>
  😄 I'm interested in ACG, idol projects and coding for fun.<br/>
  📫 How to reach me: Personal Email: overthebrain@outlook.com
 <hr>
