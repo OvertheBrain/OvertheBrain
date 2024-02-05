@@ -1,11 +1,11 @@
 ## Hi, this is OB(BRIANHAN)👋
 
 
- 📖 I earned my bachelor's degree in Software Engineering at SJTU in 2023.<br/>
+ 📖 I earned my bachelor's degree in Software Engineering from SJTU in 2023.<br/>
  💻 Practicing programming for applications(Java, C++, JavaScript) and software systems.<br/>
  ✈️ Pursuing a master's degree in ECE at [UW](https://www.ece.uw.edu/), seeking SDE internship opportunities too.<br/>
  😄 I'm interested in ACG, idol projects and coding for fun.<br/>
- 📫 How to reach me: [Personal Email](mailto:overthebrain@outlook.com) | [LinkedIn](https://www.linkedin.com/in/brian-han-6aba95281/)
+ 📫 How to reach me: [Personal Email](mailto:overthebrain@outlook.com) | [LinkedIn](https://www.linkedin.com/in/brian-han-717b3629b/)
 <hr>
 
 ### Github Stats
